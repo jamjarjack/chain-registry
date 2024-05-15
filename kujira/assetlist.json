@@ -1260,7 +1260,7 @@
         },
         {
           "denom": "wbtc.axl",
-          "exponent": 6
+          "exponent": 8
         }
       ],
       "base": "ibc/301DAF9CB0A9E247CD478533EF0E21F48FF8118C4A51F77C8BC3EB70E5566DBC",
